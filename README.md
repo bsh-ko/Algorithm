@@ -8,8 +8,7 @@
 
 ### Solving Calendar
 
-![GitHub Grass](https://geps.dev/github/bsh-ko/Algorithm?v=1)
-
+[![Suhyun's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bsh-ko&theme=github-compact&hide_border=true)](https://github.com/bsh-ko)
 ---
 
 ## 나의 다짐 및 로드맵
