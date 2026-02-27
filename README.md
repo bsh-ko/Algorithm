@@ -1,4 +1,4 @@
-# 자바 알고리즘 스터디 :  1일 1문제 실천
+### 자바 알고리즘 스터디 :  1일 1문제 실천
 
 [![BaekjunHub](https://img.shields.io/badge/Solved.ac-bsh--ko-00FFA1?style=flat-square&logo=Solved.dot.ac&logoColor=white)](https://solved.ac/profile/bsh-ko)
 ![1Day1Algo](https://img.shields.io/badge/Goal-1Day1Algo-red?style=flat-square&logo=target)
